@@ -2,7 +2,7 @@ import { Route, Routes, useLocation } from "react-router-dom";
 import Cuisine from "./Cuisine";
 import Recipes from "./Recipes";
 import Searched from "./Searched";
-import Home from "./home";
+import Home from "./Home";
 import { AnimatePresence } from "framer-motion";
 
 function Pages() {
